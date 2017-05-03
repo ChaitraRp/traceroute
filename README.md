@@ -14,7 +14,7 @@ Traceroute is a program that can be used to send packets of information to remot
 
 The code can be run in the following ways:
 
-python traceroute.py -h will give all the options that can be used.
-python traceroute.py www.google.com will give the traceroute for www.google.com
-python traceroute.py www.google.com -m 5 will set the maximum hop limit to 5 and will exit if it is not able to find a route within that hp limit (default hop is 30)
-python traceroute.py www.google.com -p 9000 will set the port to be used (default port is 33434)
+python traceroute.py -h will give all the options that can be used.    
+python traceroute.py www.google.com will give the traceroute for www.google.com    
+python traceroute.py www.google.com -m 5 will set the maximum hop limit to 5 and will exit if it is not able to find a route within that hp limit (default hop is 30)    
+python traceroute.py www.google.com -p 9000 will set the port to be used (default port is 33434)    
