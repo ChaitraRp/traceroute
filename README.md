@@ -1,4 +1,4 @@
-# This repository contains implementation of traceroute
+## This repository contains implementation of traceroute
 
 Some operating systems like Windows 10, Windows Server OS do not have traceroute in it. These operating systems come with an alteranative to traceroute named  as "tracert".
 
@@ -10,7 +10,7 @@ UDP datagram are used as probe packets and waiting for an ICMP-ECHO-REPLY. This 
 
 Traceroute is a program that can be used to send packets of information to remote computers for the purpose of retrieving information useful for testing Internet connection. In general a traceroute tracks the path that a packet takes from your computer to a destination address. A traceroute also shows how many times your packets are being rebroadcast by other servers until it gets to the final destination.
 
-# How to Use
+## How to Use
 
 The code can be run in the following ways:
 
